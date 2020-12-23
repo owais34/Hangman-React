@@ -1,0 +1,43 @@
+.dialog{
+    background-color: rgba(0,0,0, 50%);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+}
+
+.container3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 4px var(--color2) solid;
+    background-color:var(--color3);
+    min-width: 40%;
+    max-width: 70%;
+    margin: auto;
+    border-radius: 50px;
+}
+
+.button4{
+    border: 6px rgba(0,0,0, 20%) solid;
+    margin: 20px;
+    background-color: pink;
+    font-size: 2em;
+    font-weight: 600;
+    border-radius: 10px;
+    transition: 1000ms;
+}
+
+.button4:hover{
+    background-color: lightgreen;
+}
+
+.button4:focus{
+    font-size: 1.7em;
+}

@@ -1,0 +1,10 @@
+.header{
+    background-color: var(--color2);
+    color: var(--color4);
+    text-align: center;
+}
+
+.header-text{
+    margin-top: 0;
+    font-size: 3em;
+}

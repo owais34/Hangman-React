@@ -1,0 +1,23 @@
+.image-tile{
+    background-color:var(--color2);
+    align-items: baseline;
+    /* margin: auto; */
+    border: 4px var(--color3) solid;
+    /* animation-iteration-count: infinite; */
+}
+.animation{
+    animation-iteration-count: infinite;
+    animation-name: danger;
+    animation-duration: 1s;
+}
+
+@keyframes danger{
+    0% {background-color: var(--color2);}
+    50% {background-color: red;}
+    100% {background-color: var(--color2);}
+}
+
+.image{
+    max-width: 350px;
+    max-height: 350px;
+}
