@@ -13,7 +13,7 @@ function App() {
   const [dialog,setDialog]=useState(false)
   const [dialogMessage,setDialogMessage]=useState("")
   const [hangState,setHangState]=useState(0)
-  const [word,setWord]=useState("IMPOSSIBLE")
+  const [word,setWord]=useState("")
   const [danger,setDanger]=useState("")
 
 
@@ -28,7 +28,7 @@ function App() {
     }
     setGuessState(temp_array)
     temp_array=[]
-    for(i=0;i<word.length;i++)
+    for(i=0;i<word_array[index].length;i++)
     {
       temp_array.push("_")
     }
