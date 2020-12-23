@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Hangman-React/static/css/main.d2203741.chunk.css",
+    "main.js": "/Hangman-React/static/js/main.a161bb8d.chunk.js",
+    "main.js.map": "/Hangman-React/static/js/main.a161bb8d.chunk.js.map",
+    "runtime-main.js": "/Hangman-React/static/js/runtime-main.7923373f.js",
+    "runtime-main.js.map": "/Hangman-React/static/js/runtime-main.7923373f.js.map",
+    "static/js/2.dcc31b34.chunk.js": "/Hangman-React/static/js/2.dcc31b34.chunk.js",
+    "static/js/2.dcc31b34.chunk.js.map": "/Hangman-React/static/js/2.dcc31b34.chunk.js.map",
+    "static/js/3.d2becf70.chunk.js": "/Hangman-React/static/js/3.d2becf70.chunk.js",
+    "static/js/3.d2becf70.chunk.js.map": "/Hangman-React/static/js/3.d2becf70.chunk.js.map",
+    "index.html": "/Hangman-React/index.html",
+    "static/css/main.d2203741.chunk.css.map": "/Hangman-React/static/css/main.d2203741.chunk.css.map",
+    "static/js/2.dcc31b34.chunk.js.LICENSE.txt": "/Hangman-React/static/js/2.dcc31b34.chunk.js.LICENSE.txt",
+    "static/media/hang0.0d7ba662.svg": "/Hangman-React/static/media/hang0.0d7ba662.svg",
+    "static/media/hang1.2163c867.svg": "/Hangman-React/static/media/hang1.2163c867.svg",
+    "static/media/hang2.b8a71bef.svg": "/Hangman-React/static/media/hang2.b8a71bef.svg",
+    "static/media/hang3.18a159ad.svg": "/Hangman-React/static/media/hang3.18a159ad.svg",
+    "static/media/hang4.3d75d755.svg": "/Hangman-React/static/media/hang4.3d75d755.svg",
+    "static/media/hang5.3530b3e6.svg": "/Hangman-React/static/media/hang5.3530b3e6.svg",
+    "static/media/hang6.aaec2585.svg": "/Hangman-React/static/media/hang6.aaec2585.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7923373f.js",
+    "static/js/2.dcc31b34.chunk.js",
+    "static/css/main.d2203741.chunk.css",
+    "static/js/main.a161bb8d.chunk.js"
+  ]
+}
