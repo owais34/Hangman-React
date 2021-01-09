@@ -80,14 +80,18 @@ function App() {
   }
   return (
     <div className="App">
+      
+      {
+        (dialog)?<Dialog message={dialogMessage} reset={resetGame}/>:(
+          <div>
       <Header/>
       <div className="container">
         <StickDisplay index={hangState} danger={danger}/>
         <WordDisplay char_array={guessedState}/>
       </div>
       <CharacterDisplay char_array={guessState} clickEvent={buttonClickHandler}/>
-      {
-        (dialog)?<Dialog message={dialogMessage} reset={resetGame}/>:null
+      </div>
+        )
       }
     </div>
   );
