@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Hangman-React/static/css/main.8b03805b.chunk.css",
-    "main.js": "/Hangman-React/static/js/main.cf5a2116.chunk.js",
-    "main.js.map": "/Hangman-React/static/js/main.cf5a2116.chunk.js.map",
+    "main.css": "/Hangman-React/static/css/main.d2203741.chunk.css",
+    "main.js": "/Hangman-React/static/js/main.1bb50b7e.chunk.js",
+    "main.js.map": "/Hangman-React/static/js/main.1bb50b7e.chunk.js.map",
     "runtime-main.js": "/Hangman-React/static/js/runtime-main.7923373f.js",
     "runtime-main.js.map": "/Hangman-React/static/js/runtime-main.7923373f.js.map",
     "static/js/2.dcc31b34.chunk.js": "/Hangman-React/static/js/2.dcc31b34.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.d2becf70.chunk.js": "/Hangman-React/static/js/3.d2becf70.chunk.js",
     "static/js/3.d2becf70.chunk.js.map": "/Hangman-React/static/js/3.d2becf70.chunk.js.map",
     "index.html": "/Hangman-React/index.html",
-    "static/css/main.8b03805b.chunk.css.map": "/Hangman-React/static/css/main.8b03805b.chunk.css.map",
+    "static/css/main.d2203741.chunk.css.map": "/Hangman-React/static/css/main.d2203741.chunk.css.map",
     "static/js/2.dcc31b34.chunk.js.LICENSE.txt": "/Hangman-React/static/js/2.dcc31b34.chunk.js.LICENSE.txt",
     "static/media/hang0.0d7ba662.svg": "/Hangman-React/static/media/hang0.0d7ba662.svg",
     "static/media/hang1.2163c867.svg": "/Hangman-React/static/media/hang1.2163c867.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.7923373f.js",
     "static/js/2.dcc31b34.chunk.js",
-    "static/css/main.8b03805b.chunk.css",
-    "static/js/main.cf5a2116.chunk.js"
+    "static/css/main.d2203741.chunk.css",
+    "static/js/main.1bb50b7e.chunk.js"
   ]
 }
